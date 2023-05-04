@@ -1,6 +1,8 @@
 # Función para sumar dos números
 def sumar(num1, num2):
+    print ('estas apunto de hacer una suma')
     return num1 + num2
+    
 
 # Función para restar dos números
 def restar(num1, num2):
